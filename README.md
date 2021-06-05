@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![littlegao233's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlegao233&card_width=500&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlegao233&card_width=445&layout=compact&theme=dracula)
 <!--
 **littlegao233/littlegao233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
